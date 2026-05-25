@@ -1,5 +1,5 @@
-import '../styles/hero.css'
-import resume from '../assets/resume.pdf'
+import "../styles/Hero.css"
+
 
 function Hero() {
   return (
@@ -30,7 +30,7 @@ function Hero() {
         <div className="hero-buttons">
 
           <a
-            href={resume}
+            href="/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
