@@ -11,7 +11,7 @@ function Navbar() {
           @
         </div>
 
-        <h2>Jasthi Manaswi</h2>
+        <h2>Hanchanahal Archana</h2>
 
       </div>
 

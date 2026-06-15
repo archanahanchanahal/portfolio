@@ -33,7 +33,7 @@ function Contact() {
             </span>
 
             <h2>
-              jasthimanaswi@gmail.com
+              archanagowdh@gmail.com
             </h2>
 
           </div>

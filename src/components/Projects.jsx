@@ -4,67 +4,67 @@ function Projects() {
 
   const projects = [
 
-    {
-      number: '01',
+  {
+    number: '01',
 
-      title: 'Smart Ambulance Route Optimizer',
+    title: 'RefusalAI',
 
-      description:
-        'AI-powered emergency routing platform with traffic analysis, hospital navigation and smart route optimization.',
+    description:
+      'AI-powered system designed to intelligently analyze and manage refusal scenarios using Machine Learning and NLP.',
 
-      tech: ['React', 'Node.js', 'MongoDB'],
+    tech: ['React', 'Node.js', 'MongoDB'],
 
-      image:
-        'https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?q=80&w=1400&auto=format&fit=crop',
+    image:
+      'https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?q=80&w=1400&auto=format&fit=crop',
 
-      github:
-        'https://github.com/manaswi230806/Smart-Ambulance',
+    github:
+      'https://github.com/archanahanchanahal/RefusalAI',
 
-      live:
-        '#'
-    },
+    live:
+      '#'
+  },
 
-    {
-      number: '02',
+  {
+    number: '02',
 
-      title: 'Blood Bank Management System',
+    title: 'Dialysis Scheduler',
 
-      description:
-        'Full stack healthcare platform for donor management, blood availability tracking and emergency requests.',
+    description:
+      'Healthcare scheduling platform for managing dialysis appointments, patient allocation and resource optimization.',
 
-      tech: ['React', 'Express', 'MongoDB'],
+    tech: ['React', 'Express', 'MongoDB'],
 
-      image:
-        'https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?q=80&w=1400&auto=format&fit=crop',
+    image:
+      'https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?q=80&w=1400&auto=format&fit=crop',
 
-      github:
-        'https://github.com/manaswi230806/Blood-Bank-Management-System',
+    github:
+      'https://github.com/archanahanchanahal/DialysisScheduler',
 
-      live:
-        '#'
-    },
+    live:
+      '#'
+  },
 
-    {
-      number: '03',
+  {
+    number: '03',
 
-      title: 'Clarify My DSA',
+    title: 'Credit Card Fraud Detection',
 
-      description:
-        'Interactive learning platform simplifying DSA concepts with structured explanations and clean visual learning.',
+    description:
+      'Machine learning project for detecting fraudulent credit card transactions using predictive analytics.',
 
-      tech: ['React', 'JavaScript', 'Education'],
+    tech: ['React', 'JavaScript', 'Education'],
 
-      image:
-        'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1400&auto=format&fit=crop',
+    image:
+      'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1400&auto=format&fit=crop',
 
-      github:
-        'https://github.com/manaswi230806/clarify-my-dsa',
+    github:
+      'https://github.com/archanahanchanahal/credit-card-fraud-detection',
 
-      live:
-        '#'
-    }
+    live:
+      '#'
+  }
 
-  ]
+]
 
   return (
     <section className="projects" id="projects">

@@ -11,7 +11,7 @@ function Footer() {
         <div className="footer-left">
 
           <h1>
-            Jasthi Manaswi.
+            Hanchanahal Archana.
           </h1>
 
           <p>
@@ -45,7 +45,7 @@ function Footer() {
       <div className="footer-bottom">
 
         <p>
-          © 2026 Jasthi Manaswi. All rights reserved.
+          © 2026 Hanchanahal Archana. All rights reserved.
         </p>
 
         <span>

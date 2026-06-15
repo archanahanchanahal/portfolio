@@ -22,7 +22,7 @@ function About() {
             </span>
 
             <h2>
-              Hi, I’m Jasthi Manaswi.
+              Hi, I’m Hanchanahal Archana.
             </h2>
 
             <p>

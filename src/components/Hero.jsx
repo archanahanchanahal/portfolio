@@ -14,7 +14,7 @@ function Hero() {
         </p>
 
         <h1>
-          Hi, I'm <span>Jasthi Manaswi</span><br />
+          Hi, I'm <span>Hanchanahal Archana</span><br />
         </h1>
 
         <h2>
@@ -54,7 +54,7 @@ function Hero() {
         <div className="circle-glow"></div>
 
         <div className="hero-circle">
-          JM
+          HA
         </div>
 
         <div className="floating-card card1">

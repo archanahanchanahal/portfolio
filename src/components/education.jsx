@@ -52,7 +52,7 @@ function Education() {
 
             <div className="cgpa-card">
               <span>CGPA</span>
-              <h2>8.8</h2>
+              <h2>9.01</h2>
             </div>
 
           </div>
