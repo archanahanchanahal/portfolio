@@ -7,8 +7,8 @@ import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
-import "./styles/navbar.css"
-import "./styles/hero.css"
+import "./styles/Navbar.css"
+import "./styles/Hero.css"
 import './styles/about.css'
 import './styles/education.css'
 
